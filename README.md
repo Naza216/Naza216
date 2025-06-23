@@ -1,5 +1,4 @@
-## Hi there, I'm Tio Natanael Z 👋
-
+## Hi I am Tio, Fullstack developer, Systems engineer and I also like to design. 🤞✌️✌️✌️
 <!--
 **Naza216/Naza216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Naza216](img/my%20foto2.jpg)
 - 🌱 I’m currently learning **Java**, **Go** and **Solidity** 😁😁🎶🎶
 - I’m currently working on **Next.js** and **Spring boot** 👌👌👌
 - My [**Instagram**](https://www.instagram.com/ti_nazza/)

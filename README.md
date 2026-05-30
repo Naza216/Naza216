@@ -22,4 +22,5 @@ i'm Tio, Fullstack developer, Systems engineer and I also like to design.
 
 Good Luck!!🤞🤞🤞
 
+ https://colab.research.google.com/drive/1NjBDCGvDOIS_fwhIhI1u593nGBKZbbWj?usp=sharing
 
